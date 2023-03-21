@@ -30,6 +30,7 @@ for that assignment have to be handed in via OLAT by 17:00 on the previous day
 | ---------- | ---------- | ----------------------------------------------------------- |
 | 2023-03-14 | -          | Administrative matters, introduction to LCC2                |
 | 2023-03-21 | [1](01)    | Speedup, Amhdal's law, measurements                         |
+| 2023-03-28 | [2](02)    | Sequential performance, cache effects, pthread parallelism  |
 
 ## General Information
 
