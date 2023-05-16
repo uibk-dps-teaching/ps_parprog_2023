@@ -1,4 +1,4 @@
-# Assignment 07 for May 16th, 2022
+# Assignment 07 for May 16th, 2023
 
 The goal of this assignment is to study several means of vectorizing a simple program.
 
