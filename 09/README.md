@@ -68,7 +68,7 @@ for (i=1; i<N; i++) {
 - Compilers often perform dependence analysis as a pre-step in order to safely perform optimizations such as vectorization in a second step. In this exercise, we will look at the first step only, namely compiler capabilities and reporting.
 
 ### Tasks
-- Compile the given program [analysis.c](analysis.c) with gcc 12.2.0 and the flags `-O2 -ftree-vectorize -fopt-info-vec-all-internal`.
+- Compile the given program [analysis.c](analysis.c) with gcc 12.2.0 and the flags `-O2 -ftree-vectorize -fopt-info-vec-all-internals`.
 - Examine the output. What information about dependence analysis can you find in the output? Can you identify any information pointing to successful or unsuccessful vectorization? Does the compiler perform any analysis beyond checking for dependencies and semantic correctness? What are your findings?
 
 ## Exercise 3 (1 Point)
