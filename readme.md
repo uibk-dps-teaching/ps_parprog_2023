@@ -37,6 +37,7 @@ for that assignment have to be handed in via OLAT by 17:00 on the previous day
 | 2023-05-09 | [6](06)    | More OpenMP applications (prefix sum and N-Queens problem)  |
 | 2023-05-16 | [7](07)    | Vectorization with and without OpenMP                       |
 | 2023-05-23 | [8](08)    | Profiling and parallelization of a mystery application      |
+| 2023-05-30 | [9](09)    | OpenMP correctness, auto-vectorization, dependence analysis |
 
 ## General Information
 
