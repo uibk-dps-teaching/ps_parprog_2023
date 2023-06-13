@@ -40,6 +40,7 @@ for that assignment have to be handed in via OLAT by 17:00 on the previous day
 | 2023-05-30 | [9](09)    | OpenMP correctness, auto-vectorization, dependence analysis |
 | 2023-06-06 | [10](10)   | Dependencies, Dependencies, Dependencies                    |
 | 2023-06-13 | [11](11)   | N-Body simulation                                           |
+| 2023-06-20 | [12](12)   | Scalar architectures and optimizations                      |
 
 ## General Information
 
